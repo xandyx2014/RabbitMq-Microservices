@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "48v6xw3jeM6Pv+ZGUPvJKQyrPWp18vBukSXpmFTg5pHK8UhpJmdNMRqnH1awlMj9+/QJTba5hyU6OXeR05kM1w==",
+  "success": true,
+  "projectFilePath": "C:\\MicroservicesRabbitMQ\\MicroservicesRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javix\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\javix\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
